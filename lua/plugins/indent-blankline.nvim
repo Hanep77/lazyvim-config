@@ -1,0 +1,3 @@
+opts = {
+  scope = { enabled = false },
+}
